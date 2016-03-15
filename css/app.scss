@@ -2,9 +2,13 @@
 ---
 body {
     background-color: slategray;
+    margin: 50px 0;
 }
-first-row {
+.first-row {
     background-color: #f5f5f5;
+    padding: 20px;
+    box-shadow: 7px 7px 7px;
+    margin-top: 50px;
 }
 .flex-wrapper {
     display: flex;
